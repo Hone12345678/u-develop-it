@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Hone12345678/u-develop-it#readme",
   "dependencies": {
+    "dotenv": "^11.0.0",
     "express": "^4.17.2",
     "mysql2": "^2.3.3"
   },
